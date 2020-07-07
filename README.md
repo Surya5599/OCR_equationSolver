@@ -6,3 +6,6 @@ Program reads the equation using ocr
 Confirms the expression using regex
 Evaluates the expression 
 Clicks the correct solution
+
+
+check out in action here: https://youtu.be/SVFRD3A5OtA
